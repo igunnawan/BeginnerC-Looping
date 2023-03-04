@@ -26,35 +26,5 @@ int main (){
     else {
         printf("Masukkan tidak boleh negatif");
     }
-    // i = 2;
-    // j = 2;
 
-    // if (N > 0){
-    //     while (i <= N)
-    //     {
-    //         total = 0;
-    //         while (j < i)
-    //         {
-    //             if (i%j != 0){
-    //                 j++;
-    //             }
-    //             else {
-    //                 total = total + 1;
-    //                 j++;
-    //             } 
-    //         }
-
-    //         if (total == 1){
-    //             i++;
-    //             printf("%d, ", i);
-    //         }
-    //         else {
-    //             i++;
-    //         }
-            
-    //     }
-    // // }
-    // else {
-    //     printf("Masukkan tidak boleh negatif");
-    // }
 }
